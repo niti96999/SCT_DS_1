@@ -1,0 +1,2 @@
+Summary
+The bar chart shows the distribution of people across different age groups in a population. The **20–29 years** age group has the highest population with **1,500 people**, followed by the **30–39 years** group with **1,400 people**. The population gradually decreases in the older age groups, with the **80+ years** category having the lowest count of **100 people**. Overall, the chart indicates that the population is concentrated among young adults, while fewer people belong to the senior age groups.
